@@ -34,3 +34,6 @@ This program is a record handling program that is done in JAVA.
         로그인 : ID : sut2 PW : stupw2
         
         성적확인
+
+
+
