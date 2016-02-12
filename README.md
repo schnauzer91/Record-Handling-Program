@@ -39,7 +39,8 @@ This program is a record handling program that is done in JAVA.
 
 ## Using...
 * MySQL
-* MVC
+* MVC Pattern
+* Java
 * JDBC
 * Eclipse
 * Event-Driven Loop
